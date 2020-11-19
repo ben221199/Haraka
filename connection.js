@@ -59,7 +59,7 @@ class Connection {
             ip: null,            // c.local_ip
             port: null,          // c.local_port
             host: net_utils.get_primary_host_name(),
-            info: 'Haraka',
+            info: 'Yocto Mail Server',
         };
         this.remote = {
             ip:   null,          // c.remote_ip
